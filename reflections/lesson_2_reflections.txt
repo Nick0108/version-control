@@ -8,14 +8,21 @@ It let us to determine which part need to be commited.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+When I have changed the file, I add it to the staging place , when the other time,
+I commit it and save another.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Whenever I want to make a new thought into the files, it can be not changing the original files.
+And it can be easy to turn into several version.
 
 How do the diagrams help you visualize the branch structure?
+Can be checkouted what branch I have and which one need to commit.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+It will make the this branch into the current branch and become their father.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Automerging can save many times,while the manual can make sure the right code.
