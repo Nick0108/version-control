@@ -3,6 +3,8 @@ It will crete a .git files to store my commit history.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+It can be some part need to change of the working directory, not the all.
+It let us to determine which part need to be commited.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
